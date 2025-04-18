@@ -1,4 +1,4 @@
-# Vision-Guided Robotic Tomato Harvester
+#  Tomato Plucking Rover
 ## Overview
 This project presents a robotic system capable of identifying and harvesting tomatoes using advanced computer vision techniques and robotic control. By leveraging the YOLO object detection algorithm, real-time image processing, and precise robotic arm movements, this system aims to improve agricultural automation and efficiency.
 
